@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "827353275906",
+    "project_id": "flutter-marombapp-347b3",
+    "storage_bucket": "flutter-marombapp-347b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827353275906:android:1ae22420853846fc94d11b",
+        "android_client_info": {
+          "package_name": "com.example.app_gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9_XfnkxyL_MRHYAJ61urrdtKeEefbvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827353275906:android:e3f835352eba275294d11b",
+        "android_client_info": {
+          "package_name": "com.example.app_maromba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9_XfnkxyL_MRHYAJ61urrdtKeEefbvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827353275906:android:d2c022112636c42594d11b",
+        "android_client_info": {
+          "package_name": "com.example.marombapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9_XfnkxyL_MRHYAJ61urrdtKeEefbvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
